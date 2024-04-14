@@ -43,10 +43,10 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Dethsyth&show_icons=true&rank_icon=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Dethsyth&show_icons=true&r" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Dethsyth&show_icons=true&r" />
 </picture>
 
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dethsyth&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dethsyth&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </div>
 
 <div style="display: inline_block"><br>
